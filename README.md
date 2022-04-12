@@ -17,9 +17,9 @@ Table of Contents
 
 ## Screenshots <a name="-screenshots" style="text-decoration:none"></a>
 
-<img src=".Watchme.png/></img>
+<img src="./Watchme.png/></img>
           
-<img src=".Watchme2.png/></img>
+<img src="./Watchme2.png/></img>
 
 ---
 
